@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mariadb": "^2.1.1",
+    "sequelize": "^5.19.6",
+    "body-parser": "latest"
+  },
+  "devDependencies": {
+    "jsonwebtoken": "^8.5.1"
   }
 }
